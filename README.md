@@ -3,7 +3,7 @@ Wetland fine classification project using TensorFlow and geospatial data
 # 湿地精细化分类项目
 
 ## 🗂 项目结构
-.
+
 ├── data/              # 数据目录
 
 │   ├── raw/           # 原始数据（git不跟踪）
