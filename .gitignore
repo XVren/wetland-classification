@@ -169,3 +169,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# 地理数据相关
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+
+# 开发环境
+.idea/
+venv/
+env/
+*.ipynb_checkpoints
+
+# 大文件规则
+*.h5
+*.pth
+!models/*.h5  # 例外允许模型文件
